@@ -1,8 +1,14 @@
-##### Welcome, I'm Jorge Reyes Vargas
+#### <p align="center">️ Hi I'm Jorge Reyes Vargas </p>
 
-<img width="200" src="https://github.com/jarvars/jarvars.github.io/blob/master/assets/img/logo1.png?raw=true"/>
+</br>
 
-🐛 QA Automation Engineer, Manual/Functional/API/Security Testing.  
+<img align="right" width="150" src="https://github.com/jarvars/jarvars.github.io/blob/master/assets/img/logo1.png?raw=true"/>
+
+</br>
+
+##### About Me
+
+🐛 QA Automation Engineer, Manual/Functional/API/Security Testing.
 🤖 Automate the Universe | DevOps Advocate
 
 ---
