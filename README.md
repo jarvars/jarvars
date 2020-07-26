@@ -8,8 +8,8 @@
 
 ##### About Me
 
-🐛 QA Automation Engineer, Manual/Functional/API/Security Testing.
-🤖 Automate the Universe | DevOps Advocate
+🐛 QA Automation Engineer, Manual/Functional/API/Security Testing.  
+🤖 Automate the Universe | DevOps Advocate  
 
 ---
 
