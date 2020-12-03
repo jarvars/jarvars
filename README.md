@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-[<img src="https://github.com/jarvars/jarvars/blob/master/assets/SpoList.png?raw=true" align="left" width="480" />](https://open.spotify.com/playlist/12W7dtBCYUtjOleI3ULgNK?si=oKL20GwqSrikkq7fZ5kPzg)
-</p>
-
-<p align="center">
  <a href="https://www.linkedin.com/in/jarvars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> <a href="https://www.twitter.com/jar_vars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a> <a href="https://steamcommunity.com/id/jarvars/"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg"/></a> <a href="https://dev.to/jarvars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/></a>
 </p>
+
+[<img src="https://github.com/jarvars/jarvars/blob/master/assets/SpoList.png?raw=true" align="left" width="480" />](https://open.spotify.com/playlist/12W7dtBCYUtjOleI3ULgNK?si=oKL20GwqSrikkq7fZ5kPzg)
