@@ -6,7 +6,7 @@ Entusiasta de la Ingeniería de software y apasionado por la calidad del softwar
 Ayudo a automatizar el ciclo de vida de desarrollo y de producto software, con el fin de que los equipos logren sus objetivos de manera confiable y con calidad.
 
 #### Estoy aquí:
-<p><a href="mailto:soyjarvars@gmail.com"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a> <a href="https://www.linkedin.com/in/jarvars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> <a href="https://www.twitter.com/jar_vars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a> <a href="https://steamcommunity.com/id/jarvars/"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg"/></a> <a href="https://dev.to/jarvars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/></a>
+<p><a href="mailto:soyjarvars@gmail.com"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a> <a href="https://www.linkedin.com/in/jarvars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> <a href="https://dev.to/jarvars"><img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/></a>
 </p>
 
 <p align="center">
